@@ -1,4 +1,4 @@
-﻿namespace Gui_Photorec
+﻿namespace OrderFiles
 {
     partial class Form1
     {

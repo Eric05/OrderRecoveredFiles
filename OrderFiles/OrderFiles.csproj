@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{5F430D8B-007B-4948-B247-6482FE12AC3D}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Gui_Photorec</RootNamespace>
-    <AssemblyName>Gui_Photorec</AssemblyName>
+    <RootNamespace>OrderFiles</RootNamespace>
+    <AssemblyName>OrderFiles</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -68,6 +68,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

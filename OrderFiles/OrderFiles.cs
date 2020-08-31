@@ -8,7 +8,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Gui_Photorec
+namespace OrderFiles
 {
     public static class OrderByType
     {
